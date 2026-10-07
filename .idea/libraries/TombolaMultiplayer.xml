@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TombolaMultiplayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TombolaServer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TombolaClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
